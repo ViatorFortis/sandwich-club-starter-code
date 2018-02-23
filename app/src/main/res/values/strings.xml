@@ -128,4 +128,5 @@
         </item>
     </string-array>
 
+    <string name="placeholder">placeholder</string>
 </resources>
